@@ -51,7 +51,7 @@ Also make sure the redirect in the order form points to your hosted `thank-you.h
 ---
 
 ## 📬 Contact
-Have questions or feedback? Use the contact form on the website or email us at: `your-email@example.com`
+Have questions or feedback? Use the contact form on the website or email us at: `levigbryan@gmail.com`
 
 ---
 
