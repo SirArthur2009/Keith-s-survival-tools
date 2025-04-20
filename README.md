@@ -1,6 +1,6 @@
-# Wilderness Works - Custom Survival Gear
+# Keith's survival tools- Custom Survival Gear
 
-Welcome to **Wilderness Works**, a handcrafted survival gear storefront website. This site is built with HTML and Tailwind CSS, and includes an order form powered by [Formspree](https://formspree.io/) to handle submissions.
+Welcome to **Keith's survival tools**, a handcrafted survival gear storefront website. This site is built with HTML and Tailwind CSS, and includes an order form powered by [Formspree](https://formspree.io/) to handle submissions.
 
 ## 🌲 Features
 - Responsive design using Tailwind CSS
